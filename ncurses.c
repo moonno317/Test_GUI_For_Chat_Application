@@ -1,4 +1,4 @@
-#include <ncurses.h>awdawdawdawd
+#include <ncurses.h>
 
 void chatFunction() {
     initscr();
